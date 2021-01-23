@@ -1,12 +1,12 @@
 "# chat-app" 
 
-in "server" folder & type
+in "server" folder type
 
 npm install
 
 npm start
 
-in "client" folder & type
+in "client" folder type
 
 npm install
 
