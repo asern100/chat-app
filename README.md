@@ -1,5 +1,7 @@
 "# chat-app" 
 
+Realtime Chat System | React, GraphQL & Websockets
+
 in "server" folder type
 
 npm install
